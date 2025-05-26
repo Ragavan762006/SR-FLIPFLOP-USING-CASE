@@ -33,7 +33,7 @@ By using three variable K-Map, we can get the simplified expression for next sta
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=S+R′Q(t)Q(t+1)=S+R′Q(t)
 
 **Procedure**
-
+```
 /* write all the steps invloved */
 
 1 Open Quartus software and create a new project.
@@ -44,7 +44,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 6 Run the simulation by clicking on "Processing" -> "Start Simulation".
 7 Observe the waveforms and verify the SR Flip Flop behavior.
 8 Analyze the results and make any necessary changes to the design.
-
+```
 
 **PROGRAM**
 
